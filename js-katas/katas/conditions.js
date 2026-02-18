@@ -19,7 +19,7 @@ function fizzBuzz(n = 100) {
       console.log(i)
     }
   }
- }
+ 
 
 fizzBuzz(5);
 
