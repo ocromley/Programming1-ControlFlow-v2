@@ -20,7 +20,7 @@ function fizzBuzz(n = 100) {
     }
   }
  
-
+}
 fizzBuzz(5);
 
 globalThis.__katas = globalThis.__katas || {};
